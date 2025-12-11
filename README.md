@@ -1,4 +1,4 @@
-﻿# b1ts_hackpad
+﻿# b1ts-hackpad
 
 <h3><b>CAD:</b></h3><br>
 <img width="881" height="523" alt="Screenshot 2025-12-09 132315" src="https://github.com/user-attachments/assets/fc2de4b9-ca3f-42d4-8869-d3e96ae9e852" />
@@ -24,6 +24,7 @@ Here's what I used for the device:
   <li>4x M3x16mm screws</li>
   <li>4x M3x5mmx4mm inserts</li>
 </ul>
+
 
 
 
